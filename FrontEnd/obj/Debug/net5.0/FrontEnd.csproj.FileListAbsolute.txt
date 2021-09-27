@@ -218,7 +218,6 @@ C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Fro
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\FrontEnd\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\FrontEnd\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\FrontEnd\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\FrontEnd\obj\Debug\net5.0\Razor\Pages\Views\List.cshtml.g.cs
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\FrontEnd\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\FrontEnd\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\FrontEnd\obj\Debug\net5.0\FrontEnd.RazorTargetAssemblyInfo.cache
@@ -229,3 +228,4 @@ C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Fro
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\FrontEnd\obj\Debug\net5.0\ref\FrontEnd.dll
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\FrontEnd\obj\Debug\net5.0\FrontEnd.pdb
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\FrontEnd\obj\Debug\net5.0\FrontEnd.genruntimeconfig.cache
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\FrontEnd\obj\Debug\net5.0\Razor\Pages\Personas\List.cshtml.g.cs

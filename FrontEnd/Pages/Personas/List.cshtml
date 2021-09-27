@@ -3,12 +3,19 @@
 @{
 }
 
-<h1>Hola voy a realizar esto aca</h1>
-
+<h1>Personas</h1>
+<br/>
 <table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Nombre</th>
+        <th>Edad</th>
+        <th>Altura</th>
+    </tr>
     @foreach(var persona in Model.Personas)
     {
         <tr>
+            <td>@persona.Id</td>
             <td>@persona.Nombre</td>
             <td>@persona.Edad</td>
             <td>@persona.Altura</td>

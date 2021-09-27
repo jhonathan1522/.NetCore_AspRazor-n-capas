@@ -33,3 +33,4 @@ C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Dom
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Dominio\obj\Debug\net5.0\Dominio.dll
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Dominio\obj\Debug\net5.0\ref\Dominio.dll
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Dominio\obj\Debug\net5.0\Dominio.pdb
+C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
