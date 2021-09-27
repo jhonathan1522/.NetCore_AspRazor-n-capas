@@ -1,0 +1,17 @@
+﻿@page
+@model MyApp.Namespace.ListModel
+@{
+}
+
+<h1>Hola voy a realizar esto aca</h1>
+
+<table class="table">
+    @foreach(var persona in Model.Personas)
+    {
+        <tr>
+            <td>@persona.Nombre</td>
+            <td>@persona.edad</td>
+            <td>@persona.Altura</td>
+        </tr>
+
+    }

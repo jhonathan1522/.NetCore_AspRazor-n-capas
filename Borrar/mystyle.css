@@ -1,0 +1,29 @@
+
+
+*{
+    margin:0;
+    padding: 0;
+}   // selector universal nos permite cambiar todos los aspectos de todos 
+        los elementos, se suele utilizar para cambiar el margin y el padding 
+        de todos los elementos
+        
+h1{
+    color:rebeccapurple;
+    font-size: 20px;
+}        // selector de etiqueta
+
+
+.titulo{
+    background-color: rebeccapurple;
+} // selector de clase -> todos los elementos que tengan esta clase van a colocar
+este elemento
+
+#titulo {
+    
+} // selectores de id-> solo lo podemos agregar una vez, no es muy utilizado 
+ // hoy en dia, 
+
+ p .yellow{
+
+ }  // buscame en los parrafos las clases green y lo que tenga yellow dentro del 
+    // parrafo le coge ese estilo
