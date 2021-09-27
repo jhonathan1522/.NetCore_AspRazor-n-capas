@@ -28,7 +28,7 @@ namespace FrontEnd
             services.AddRazorPages();
             //services.AddSingleton<IRepositorioPersona, RepositorioPersona>();
             services.AddScoped<IRepositorioPersona,RepositorioPersona>();
-            services.AddDbContext<PersonaContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<ApplicationContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

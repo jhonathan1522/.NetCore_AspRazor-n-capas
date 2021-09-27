@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oaJQtHQ7iVYk62dbsCvmk3/E7oZ7de8NHmor8yUmlx+IbnyMh9NE8LCxtNgWTGnKBCeU+kJUz3oFXI4NztRKdA==",
+  "dgSpecHash": "2zsCOEzfgLbD2Bu7lTHPehkzlRjEUXmRDgsN3ytEG8O35Cqhm7bY8bs3mcY1b9oX1EJqg83IfZjiFiLBEz022w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas-\\FrontEnd\\FrontEnd.csproj",
+  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\FrontEnd\\FrontEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jnata\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jnata\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

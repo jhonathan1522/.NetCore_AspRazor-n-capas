@@ -7,8 +7,8 @@ using Persistencia;
 
 namespace Persistencia.Migrations
 {
-    [DbContext(typeof(PersonaContext))]
-    partial class PersonaContextModelSnapshot : ModelSnapshot
+    [DbContext(typeof(ApplicationContext))]
+    partial class ApplicationContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
@@ -17,21 +17,6 @@ namespace Persistencia.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.9")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-            modelBuilder.Entity("Dominio.Carro", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<string>("Nombre")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("carros");
-                });
 
             modelBuilder.Entity("Dominio.Persona", b =>
                 {
@@ -43,15 +28,15 @@ namespace Persistencia.Migrations
                     b.Property<float>("Altura")
                         .HasColumnType("real");
 
+                    b.Property<int>("Edad")
+                        .HasColumnType("int");
+
                     b.Property<string>("Nombre")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("edad")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
 
-                    b.ToTable("personas");
+                    b.ToTable("Personas");
                 });
 #pragma warning restore 612, 618
         }

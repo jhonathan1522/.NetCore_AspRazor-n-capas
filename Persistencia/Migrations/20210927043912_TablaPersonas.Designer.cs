@@ -8,9 +8,9 @@ using Persistencia;
 
 namespace Persistencia.Migrations
 {
-    [DbContext(typeof(PersonaContext))]
-    [Migration("20210910210457_Inicial2")]
-    partial class Inicial2
+    [DbContext(typeof(ApplicationContext))]
+    [Migration("20210927043912_TablaPersonas")]
+    partial class TablaPersonas
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -30,15 +30,15 @@ namespace Persistencia.Migrations
                     b.Property<float>("Altura")
                         .HasColumnType("real");
 
+                    b.Property<int>("Edad")
+                        .HasColumnType("int");
+
                     b.Property<string>("Nombre")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("edad")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
 
-                    b.ToTable("personas");
+                    b.ToTable("Personas");
                 });
 #pragma warning restore 612, 618
         }

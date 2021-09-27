@@ -7,7 +7,7 @@ namespace Dominio
         
         public string Nombre { get; set; }
 
-        public int edad { get; set; }
+        public int Edad { get; set; }
 
         public float Altura { get; set; }
         

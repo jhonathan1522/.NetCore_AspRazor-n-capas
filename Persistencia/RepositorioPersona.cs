@@ -9,9 +9,9 @@ namespace Persistencia
     public class RepositorioPersona : IRepositorioPersona
     {
 
-        private readonly PersonaContext _appContext;
+        private readonly ApplicationContext _appContext;
 
-        public RepositorioPersona(PersonaContext applicationContext)
+        public RepositorioPersona(ApplicationContext applicationContext)
         {
             _appContext = applicationContext;
         }
@@ -19,9 +19,9 @@ namespace Persistencia
         public RepositorioPersona() { }
 
 
-        Persona IRepositorioPersona.addPersona(Persona persona)
+        Persona IRepositorioPersona.AddPersona(Persona persona)
         {
-            var new_persona = _appContext.personas.Add(persona);
+            var new_persona = _appContext.Personas.Add(persona);
             _appContext.SaveChanges();
             return new_persona.Entity;
         }
@@ -29,7 +29,7 @@ namespace Persistencia
 
         void IRepositorioPersona.DeletePersona(int idPersona)
         {
-            var personaEncontrado = _appContext.personas.FirstOrDefault(
+            var personaEncontrado = _appContext.Personas.FirstOrDefault(
                 p => p.Id == idPersona
             );
 
@@ -41,23 +41,23 @@ namespace Persistencia
 
         IEnumerable<Persona> IRepositorioPersona.GetAllPersona()
         {
-            return _appContext.personas.AsNoTracking();
+            return _appContext.Personas.AsNoTracking();
         }
 
         Persona IRepositorioPersona.GetPersona(int idPersona)
         {
-             return _appContext.personas.FirstOrDefault(p =>p.Id == idPersona);
+             return _appContext.Personas.FirstOrDefault(p =>p.Id == idPersona);
         }
 
-        Persona IRepositorioPersona.updatePersona(Persona persona)
+        Persona IRepositorioPersona.UpdatePersona(Persona persona)
         {
-            var personaEncontrado = _appContext.personas.FirstOrDefault(
+            var personaEncontrado = _appContext.Personas.FirstOrDefault(
                 p => p.Id == persona.Id
             );
 
             if(personaEncontrado!=null){
                 personaEncontrado.Nombre = persona.Nombre;
-                personaEncontrado.edad = persona.edad;
+                personaEncontrado.Edad = persona.Edad;
                 personaEncontrado.Altura = persona.Altura;
                 _appContext.SaveChanges(); 
 
