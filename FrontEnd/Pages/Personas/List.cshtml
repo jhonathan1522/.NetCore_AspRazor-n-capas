@@ -11,6 +11,8 @@
         <th>Nombre</th>
         <th>Edad</th>
         <th>Altura</th>
+        <th>Detalle</th>
+        <th>Editar</th>
     </tr>
     @foreach(var persona in Model.Personas)
     {
@@ -19,6 +21,18 @@
             <td>@persona.Nombre</td>
             <td>@persona.Edad</td>
             <td>@persona.Altura</td>
+            <td>
+                <a class="btn btn-primary" asp-page="./Details" asp-route-id= "@persona.Id">
+                    <i class="fas fa-info-circle"></i>
+                 </a>
+            </td>
+            <td>
+                <a class="btn btn-primary" asp-page="./Edit" asp-route-id= "@persona.Id">
+                    <i class="fa fa-pencil-square-o"></i>
+                 </a>
+            </td>
         </tr>
+
+     
 
     }
