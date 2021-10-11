@@ -5,7 +5,7 @@ namespace Persistencia
     public class ApplicationContext: DbContext
     {
 
-        private const string connectionString = @"Data Source=localhost\sqlexpress;Initial Catalog = NetCore_Asp;Integrated Security = True";
+       // private const string connectionString = @"Data Source=localhost\sqlexpress;Initial Catalog = NetCore_Asp;Integrated Security = True";
          public DbSet<Persona> Personas { get; set; }
 
         public ApplicationContext() { }
@@ -15,11 +15,11 @@ namespace Persistencia
         {
         }
         
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder){
-            if(!optionsBuilder.IsConfigured){
-                optionsBuilder
-                .UseSqlServer(connectionString);
-            }
-        }
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder){
+        //    if(!optionsBuilder.IsConfigured){
+        //        optionsBuilder
+        //        .UseSqlServer(connectionString);
+        //    }
+        //}
     }
 }
