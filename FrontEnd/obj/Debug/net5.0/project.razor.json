@@ -15619,8 +15619,23 @@
   "RootNamespace": "FrontEnd",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\FrontEnd\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\FrontEnd\\Pages\\Personas\\Details.cshtml",
       "TargetPath": "Pages\\Personas\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\FrontEnd\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\FrontEnd\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15636,6 +15651,16 @@
     {
       "FilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\FrontEnd\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\FrontEnd\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\FrontEnd\\Pages\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15659,13 +15684,18 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\FrontEnd\\Pages\\Personas\\Edit.cshtml",
-      "TargetPath": "Pages\\Personas\\Edit.cshtml",
+      "FilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\FrontEnd\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\FrontEnd\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\FrontEnd\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\FrontEnd\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15676,6 +15706,11 @@
     {
       "FilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\FrontEnd\\Pages\\Personas\\Delete.cshtml",
       "TargetPath": "Pages\\Personas\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\FrontEnd\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],

@@ -1,4 +1,40 @@
 ﻿@page
-@model MyApp.Namespace.CreateModel
+@model FrontEnd.Pages.Personas.CreateModel
+
 @{
+    ViewData["Title"] = "Create";
 }
+
+<h1>Create</h1>
+
+<h4>Persona</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Persona.Nombre" class="control-label"></label>
+                <input asp-for="Persona.Nombre" class="form-control" />
+                <span asp-validation-for="Persona.Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Persona.Edad" class="control-label"></label>
+                <input asp-for="Persona.Edad" class="form-control" />
+                <span asp-validation-for="Persona.Edad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Persona.Altura" class="control-label"></label>
+                <input asp-for="Persona.Altura" class="form-control" />
+                <span asp-validation-for="Persona.Altura" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>

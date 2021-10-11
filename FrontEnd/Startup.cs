@@ -26,6 +26,7 @@ namespace FrontEnd
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddControllersWithViews();
             //services.AddSingleton<IRepositorioPersona, RepositorioPersona>();
             services.AddScoped<IRepositorioPersona,RepositorioPersona>();
             services.AddDbContext<ApplicationContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
@@ -49,6 +50,8 @@ namespace FrontEnd
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 

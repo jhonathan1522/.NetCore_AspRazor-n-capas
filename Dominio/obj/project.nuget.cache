@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zDwbTf30MxTW3fpDJ40IcE1hC33pqcIOcdy7zb+0qbgS40NU6Mc51MmQGW5kT9mJnfSocfZy85rwOUuyiS9lbw==",
+  "dgSpecHash": "+ci8/oI2i36gZ0ViXZLd1wZCzozEKTSH3wX9osxHkusmAp/WiP8jh0JX+pUZ9D+7HvHaPukVe81ouP898ao2Ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\Dominio\\Dominio.csproj",
+  "projectFilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

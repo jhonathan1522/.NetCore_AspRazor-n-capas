@@ -3,8 +3,14 @@
 @{
 }
 
-<h1>Personas</h1>
+<div class="justify-content-sm-center text-center">
+    <h1>Personas</h1>
+</div>
 <br/>
+<p>
+    <a asp-page="Create">Crear nueva persona</a>
+    <i class="fa fa-plus"></i>
+</p>
 <table class="table">
     <tr>
         <th>Id</th>
@@ -16,23 +22,29 @@
     </tr>
     @foreach(var persona in Model.Personas)
     {
-        <tr>
-            <td>@persona.Id</td>
-            <td>@persona.Nombre</td>
-            <td>@persona.Edad</td>
-            <td>@persona.Altura</td>
-            <td>
-                <a class="btn btn-primary" asp-page="./Details" asp-route-id= "@persona.Id">
-                    <i class="fas fa-info-circle"></i>
-                 </a>
-            </td>
-            <td>
-                <a class="btn btn-primary" asp-page="./Edit" asp-route-id= "@persona.Id">
-                    <i class="fa fa-pencil-square-o"></i>
-                 </a>
-            </td>
-        </tr>
+<tr>
+    <td>@persona.Id</td>
+    <td>@persona.Nombre</td>
+    <td>@persona.Edad</td>
+    <td>@persona.Altura</td>
+    <td>
+        <a class="btn btn-primary" asp-page="./Details" asp-route-id="@persona.Id">
+            <i class="fas fa-info-circle"></i>
+        </a>
+    </td>
+    <td>
+        <a class="btn btn-primary" asp-page="./Edit" asp-route-id="@persona.Id">
+            <i class="fa fa-pencil-square-o"></i>
+        </a>
+    </td>
+    <td>
+        <a class="btn btn-primary" asp-page="./Delete" asp-route-id="@persona.Id">
+            <i class="fa fa-pencil-square-o"></i>
+        </a>
+    </td>
+</tr>
 
      
 
     }
+</table>
