@@ -20,8 +20,15 @@ namespace WebAPI.Controllers
             _mediador = mediador;
         }
 
+        [HttpGet]
         public async Task<ActionResult<List<Empleado>>> Get() {
             return await _mediador.Send(new Consulta.ListaEmpleados());
+        }
+
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Empleado>> Detalle(int id)
+        {
+            return await _mediador.Send(new ConsultaPorId.EmpleadoUnico { Id = id });
         }
     }
 }
