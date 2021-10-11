@@ -14,7 +14,7 @@ namespace FrontEnd.Pages.Personas
     {
         private readonly IRepositorioPersona _repo;
 
-        public Persona Persona { get; set; }
+        public Empleado Persona { get; set; }
 
         public CreateModel(IRepositorioPersona repositorioPersona)
         {
@@ -24,9 +24,9 @@ namespace FrontEnd.Pages.Personas
         {
         }
 
-        public void OnPost(Persona persona)
+        public void OnPost(Empleado persona)
         {
-            _repo.AddPersona(persona);
+            _repo.Add(persona);
         }
 
         public void Prueba(int id)

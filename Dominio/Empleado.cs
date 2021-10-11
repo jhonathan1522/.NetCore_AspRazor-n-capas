@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 namespace Dominio
 {
-    public class Persona
+    public class Empleado
     {
         public int Id { get; set; }
         

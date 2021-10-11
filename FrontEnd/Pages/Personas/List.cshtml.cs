@@ -14,7 +14,7 @@ namespace MyApp.Namespace
 
         private readonly IRepositorioPersona _repo;
 
-        public IEnumerable<Persona> Personas { get; set; }
+        public IEnumerable<Empleado> Personas { get; set; }
         
         public ListModel(IRepositorioPersona repositorioPersona)
         {
@@ -23,7 +23,7 @@ namespace MyApp.Namespace
         
         public void OnGet()
         {
-            Personas = _repo.GetAllPersona();
+            Personas = _repo.GetAll();
         }
     }
 }

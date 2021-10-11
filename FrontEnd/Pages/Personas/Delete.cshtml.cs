@@ -15,7 +15,7 @@ namespace FrontEnd.Pages.Personas
 
         private readonly IRepositorioPersona _repo;
 
-        public Persona Persona { get; set; }
+        public Empleado Persona { get; set; }
 
         public DeleteModel(IRepositorioPersona repositorioPersona)
         {
@@ -23,12 +23,12 @@ namespace FrontEnd.Pages.Personas
         }
         public void OnGet(int id)
         {
-            Persona = _repo.GetPersona(id);
+            Persona = _repo.Get(id);
         }
 
         public void OnPost(int id)
         {
-                _repo.DeletePersona(id);
+                _repo.Delete(id);
         }
 
         public void Prueba(int id) {

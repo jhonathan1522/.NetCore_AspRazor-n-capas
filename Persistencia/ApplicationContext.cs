@@ -5,8 +5,8 @@ namespace Persistencia
     public class ApplicationContext: DbContext
     {
 
-       // private const string connectionString = @"Data Source=localhost\sqlexpress;Initial Catalog = NetCore_Asp;Integrated Security = True";
-         public DbSet<Persona> Personas { get; set; }
+        //private const string connectionString = @"Data Source=localhost\sqlexpress;Initial Catalog = NetCore_Asp;Integrated Security = True";
+         public DbSet<Empleado> Empleados { get; set; }
 
         public ApplicationContext() { }
 

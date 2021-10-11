@@ -19,17 +19,17 @@ namespace Persistencia
         public RepositorioPersona() { }
 
 
-        Persona IRepositorioPersona.AddPersona(Persona persona)
+        Empleado IRepositorioPersona.Add(Empleado empleado)
         {
-            var new_persona = _appContext.Personas.Add(persona);
+            var new_persona = _appContext.Empleados.Add(empleado);
             _appContext.SaveChanges();
             return new_persona.Entity;
         }
 
 
-        void IRepositorioPersona.DeletePersona(int idPersona)
+        void IRepositorioPersona.Delete(int idPersona)
         {
-            var personaEncontrado = _appContext.Personas.FirstOrDefault(
+            var personaEncontrado = _appContext.Empleados.FirstOrDefault(
                 p => p.Id == idPersona
             );
 
@@ -39,26 +39,26 @@ namespace Persistencia
            _appContext.SaveChanges(); 
         }
 
-        IEnumerable<Persona> IRepositorioPersona.GetAllPersona()
+        IEnumerable<Empleado> IRepositorioPersona.GetAll()
         {
-            return _appContext.Personas.AsNoTracking();
+            return _appContext.Empleados.AsNoTracking();
         }
 
-        Persona IRepositorioPersona.GetPersona(int idPersona)
+        Empleado IRepositorioPersona.Get(int idPersona)
         {
-             return _appContext.Personas.FirstOrDefault(p =>p.Id == idPersona);
+             return _appContext.Empleados.FirstOrDefault(p =>p.Id == idPersona);
         }
 
-        Persona IRepositorioPersona.UpdatePersona(Persona persona)
+        Empleado IRepositorioPersona.Update(Empleado empleado)
         {
-            var personaEncontrado = _appContext.Personas.FirstOrDefault(
-                p => p.Id == persona.Id
+            var personaEncontrado = _appContext.Empleados.FirstOrDefault(
+                p => p.Id == empleado.Id
             );
 
             if(personaEncontrado!=null){
-                personaEncontrado.Nombre = persona.Nombre;
-                personaEncontrado.Edad = persona.Edad;
-                personaEncontrado.Altura = persona.Altura;
+                personaEncontrado.Nombre = empleado.Nombre;
+                personaEncontrado.Edad = empleado.Edad;
+                personaEncontrado.Altura = empleado.Altura;
                 _appContext.SaveChanges(); 
 
             }

@@ -22,8 +22,8 @@ namespace WebAPI.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<Persona> Get() {
-            return _context.Personas.ToList();
+        public IEnumerable<Empleado> Get() {
+            return _context.Empleados.ToList();
         }
 
     }

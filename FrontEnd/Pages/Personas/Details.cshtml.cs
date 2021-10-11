@@ -13,7 +13,7 @@ namespace MyApp.Namespace
     {
         private readonly IRepositorioPersona _repo;
 
-        public Persona Persona { get; set; }
+        public Empleado Persona { get; set; }
         
         public DetailsModel(IRepositorioPersona repositorioPersona)
         {
@@ -21,7 +21,7 @@ namespace MyApp.Namespace
         }
         public void OnGet(int id)
         {
-            Persona = _repo.GetPersona(id);
+            Persona = _repo.Get(id);
         }
     }
 }
