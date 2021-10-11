@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\Dominio\\Dominio.csproj": {}
+    "C:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\jnata\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Ciclo3_NET_CORE\\.NetCore_AspRazor-n-capas\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jnata\\AppData\\Roaming\\NuGet\\NuGet.Config",
