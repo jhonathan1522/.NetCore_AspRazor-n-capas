@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EIONk7Nd2wEYyVY9MtlZD4ycuyy4YvbUTnlcAOXC5yTIHPjJsdSWhqXNfLBVtXLzaQshYIHBuKcEJ8YX41gvmw==",
+  "dgSpecHash": "1iFqWl6zOg3k5/vnIYKywnrLLDIa2xOntjNU9zm+Y/4EaXC/8M60otWOMIXDVsBcu9AS/EHe/L1vaNdYZXFWOg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jnata\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jnata\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

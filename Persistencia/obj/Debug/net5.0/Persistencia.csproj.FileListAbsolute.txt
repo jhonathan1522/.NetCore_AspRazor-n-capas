@@ -52,3 +52,21 @@ C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Per
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Persistencia\obj\Debug\net5.0\Persistencia.pdb
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Persistencia\bin\Debug\net5.0\Persistencia.deps.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Persistencia\bin\Debug\net5.0\Persistencia.runtimeconfig.dev.json
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Persistencia\bin\Debug\net5.0\Persistencia.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Persistencia\bin\Debug\net5.0\ref\Persistencia.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Persistencia\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Persistencia\bin\Debug\net5.0\Dominio.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Persistencia\bin\Debug\net5.0\Dominio.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Persistencia\obj\Debug\net5.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Persistencia\obj\Debug\net5.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Persistencia\obj\Debug\net5.0\Persistencia.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Persistencia\obj\Debug\net5.0\Persistencia.csproj.CopyComplete
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Persistencia\obj\Debug\net5.0\Persistencia.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Persistencia\obj\Debug\net5.0\ref\Persistencia.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Persistencia\obj\Debug\net5.0\Persistencia.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Persistencia\obj\Debug\net5.0\Persistencia.genruntimeconfig.cache

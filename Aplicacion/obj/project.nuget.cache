@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bWo5gUwi6kiQsYxl6ogbKDJ2APNn1AgdsoVoOVR9nUnCgFDVw65axVLR47DSyw1V9HWAyt7FM+KMvnstpmJCuw==",
+  "dgSpecHash": "9etX9GIrgIs1EVDbAf4rwOstTqrfMaM4Ny7xe6j9ac8SUVIz2rxdAq96CLPSRQQxACldesCTxIpd2cxNDDl40g==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\Aplicacion\\Aplicacion.csproj",
+  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jnata\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jnata\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",

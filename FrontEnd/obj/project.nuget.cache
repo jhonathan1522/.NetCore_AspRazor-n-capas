@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D+U3/ryrTaM3fcN3a7bonDyZGnKSMae5ZybI3Fr3dIBppYouBmON5U5nLE906ZQgJgENA4ggvorLNB89MJqDZQ==",
+  "dgSpecHash": "jVrj1FGciQxJerOBNEQbtL71uYw3LpLO8pZ1S9+14a1t+LZAB6SmIYGLBSZsVv9/dW1qYWRFpQBaNCszULBumw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\FrontEnd\\FrontEnd.csproj",
+  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\FrontEnd\\FrontEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jnata\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jnata\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.9\\microsoft.aspnetcore.cryptography.internal.5.0.9.nupkg.sha512",

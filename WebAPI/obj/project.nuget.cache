@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H6Hr7KnT6CkKv1bh3QkG1bGHOeKHEFxnEyExP+iInlkHm1UBVqrsJp5Tw0O2XF6tD0wwaKENk/hrMLSFkaq4vA==",
+  "dgSpecHash": "gzIG1wJfWmWrE1uNvkcb9+LzYkXvaWxT112BiwH10x1lSfMV8Mp1kt0VDBHr/u8S7urk26WtDX8zyolHEQEAFw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jnata\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jnata\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
