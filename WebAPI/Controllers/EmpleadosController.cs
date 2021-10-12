@@ -30,5 +30,10 @@ namespace WebAPI.Controllers
         {
             return await _mediador.Send(new ConsultaPorId.EmpleadoUnico { Id = id });
         }
+
+        [HttpPost]
+        public async Task<ActionResult<Unit>> Crear(Nuevo.Ejecuta data) {
+            return await _mediador.Send(data);
+        }
     }
 }
