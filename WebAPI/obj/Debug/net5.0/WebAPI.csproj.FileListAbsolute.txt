@@ -136,3 +136,6 @@ C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.pdb
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
