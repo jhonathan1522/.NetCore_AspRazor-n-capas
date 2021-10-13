@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using FluentValidation;
 using MediatR;
 using Persistencia;
 
@@ -19,6 +20,16 @@ namespace Aplicacion.Empleados
            public int? Edad { get; set; }
 
            public float? Altura { get; set; }
+        }
+
+        public class EjecutaValidacion : AbstractValidator<Ejecuta>
+        {
+            public EjecutaValidacion()
+            {
+                RuleFor(x => x.Nombre).NotEmpty();
+                RuleFor(x => x.Edad).NotEmpty();
+                RuleFor(x => x.Altura).NotEmpty();
+            }
         }
 
         public class Manejador : IRequestHandler<Ejecuta>
