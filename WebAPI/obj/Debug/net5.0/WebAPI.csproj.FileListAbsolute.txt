@@ -67,16 +67,6 @@ C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Web
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\WebAPI\bin\Debug\net5.0\MediatR.dll
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\WebAPI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.dll
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.pdb
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\appsettings.json
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\WebAPI.exe
@@ -130,9 +120,19 @@ C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\Aplicacion.pdb
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\Dominio.pdb
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.pdb
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache

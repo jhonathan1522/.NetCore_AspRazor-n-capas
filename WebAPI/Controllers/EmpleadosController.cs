@@ -31,16 +31,23 @@ namespace WebAPI.Controllers
             return await _mediador.Send(new ConsultaPorId.EmpleadoUnico { Id = id });
         }
 
+        [HttpDelete("{id}")]
+        public async Task<ActionResult<Unit>> Eliminar(int id)
+        {
+            return await _mediador.Send(new Eliminar.Ejecuta { Id = id});
+        }
+
         [HttpPost]
         public async Task<ActionResult<Unit>> Crear(Nuevo.Ejecuta data) {
             return await _mediador.Send(data);
         }
 
         [HttpPut("{id}")]
-        public async Task<ActionResult<Unit>> Editar(int id,Editar.Ejecuta data)
-        {
+        public async Task<ActionResult<Unit>> Editar(int id,[FromBody] Editar.Ejecuta data) {
             data.Id = id;
             return await _mediador.Send(data);
         }
+
+
     }
 }

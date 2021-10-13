@@ -15,14 +15,6 @@ C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Apl
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
 C:\Users\jnata\Documents\PROYECTOS\Ciclo3_NET_CORE\.NetCore_AspRazor-n-capas\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.AssemblyReference.cache
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\bin\Debug\net5.0\Aplicacion.deps.json
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\bin\Debug\net5.0\Aplicacion.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\bin\Debug\net5.0\ref\Aplicacion.dll
@@ -31,4 +23,12 @@ C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplica
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\bin\Debug\net5.0\Persistencia.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\bin\Debug\net5.0\Dominio.pdb
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\bin\Debug\net5.0\Persistencia.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CopyComplete
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb
