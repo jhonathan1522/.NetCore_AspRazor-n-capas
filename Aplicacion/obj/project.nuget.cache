@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9etX9GIrgIs1EVDbAf4rwOstTqrfMaM4Ny7xe6j9ac8SUVIz2rxdAq96CLPSRQQxACldesCTxIpd2cxNDDl40g==",
+  "dgSpecHash": "9PDZKRnNeZ0b0qv2h0MgStKoWAkU/EBMmNoHh0m8wvwYbP8TadODc1dJPqMkztLs7ExPrETc+DlLwPg7hLNw9w==",
   "success": true,
   "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jnata\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\jnata\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\jnata\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
     "C:\\Users\\jnata\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jnata\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\jnata\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",

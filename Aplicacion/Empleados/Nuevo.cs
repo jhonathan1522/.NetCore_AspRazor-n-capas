@@ -3,6 +3,7 @@ using MediatR;
 using Persistencia;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading;
@@ -13,7 +14,6 @@ namespace Aplicacion.Empleados
     public class Nuevo
     {
         public class Ejecuta : IRequest {
-
             public string Nombre { get; set; }
 
             public int Edad { get; set; }
