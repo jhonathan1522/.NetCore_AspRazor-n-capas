@@ -1,4 +1,5 @@
 ﻿using Dominio;
+using FluentValidation;
 using MediatR;
 using Persistencia;
 using System;
@@ -16,10 +17,20 @@ namespace Aplicacion.Empleados
         public class Ejecuta : IRequest {
             public string Nombre { get; set; }
 
-            public int Edad { get; set; }
+            public int? Edad { get; set; }
 
-            public float Altura { get; set; }
+            public float? Altura { get; set; }
         };
+
+
+        public class EjecutaValidacion : AbstractValidator<Ejecuta> {
+            public EjecutaValidacion()
+            {
+                RuleFor(x => x.Nombre).NotEmpty();
+                RuleFor(x => x.Edad).NotEmpty();
+                RuleFor(x => x.Altura).NotEmpty();
+            }
+        }
 
         public class Manejador : IRequestHandler<Ejecuta>
         {
