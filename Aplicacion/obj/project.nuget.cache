@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ga5gKVXA84393r3rfBiouaopyl4UGZLZLjTvbN5WWTjJ5bSXT0ElW3oTp9tB/joe6ypOfl6KQm0qQqEdBIZzUg==",
+  "dgSpecHash": "FrxtOtLsx0NbkhSgl77T20bpE/AClmnaEYF/4symSneV/ln+N1uOAbfaAsQI8gKK7cLCKBxowGbsyL1aZiGNgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\Aplicacion\\Aplicacion.csproj",
+  "projectFilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jnata\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
     "C:\\Users\\jnata\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",

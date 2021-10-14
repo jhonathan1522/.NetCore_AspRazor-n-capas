@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dPmg5DOQBbsieW771ZH03rYuzDYlfKspApKtS6EqbnNvNFaXhLzDfaSMupBO9OMqqO1tfYwclK5+bsbj2zIPnw==",
+  "dgSpecHash": "VhTfkjh+ZRr6xs2qSwZGL/EI0+w/2kMXXVtZtANsqwU8YeB0zMtTOQERGyUYsMJgbyNkS/MhjleRqJ7ZowKBbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jnata\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
     "C:\\Users\\jnata\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",

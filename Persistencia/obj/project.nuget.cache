@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s7RAV0dO6Yix+DXD0VE81joAY9BQUgdhO+bsw44fkE5np2odUv1dM6JG+JqTaUJ3TaO/FgwNSMfBL5UwEbt9oA==",
+  "dgSpecHash": "LUFE6JEsvteolkRsEtKkyosygdT+PTmV2M8HXHd8a/TyWj/TDoA6o5xMWLssJeywmrjg0r5i3/Irp39+vsfQ/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jnata\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
     "C:\\Users\\jnata\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
