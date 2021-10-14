@@ -1,9 +1,11 @@
-﻿using Dominio;
+﻿using Aplicacion.ManejadorError;
+using Dominio;
 using MediatR;
 using Persistencia;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -30,7 +32,8 @@ namespace Aplicacion.Empleados
                 var empleado = await _context.Empleados.FindAsync(request.Id);
 
                 if (empleado == null) {
-                    throw new Exception("No se puede eliminar el empleado");
+                    //throw new Exception("No se puede eliminar el empleado");
+                    throw new ManejadorExcepcion(HttpStatusCode.NotFound, new { empleado = "No se encontro el empleado" });
                 }
                 _context.Remove(empleado);
 
