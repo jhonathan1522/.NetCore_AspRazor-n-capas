@@ -33,7 +33,7 @@ namespace Aplicacion.Empleados
 
                 if (empleado == null) {
                     //throw new Exception("No se puede eliminar el empleado");
-                    throw new ManejadorExcepcion(HttpStatusCode.NotFound, new { empleado = "No se encontro el empleado" });
+                    throw new ManejadorExcepcion(HttpStatusCode.NotFound, new { Mensaje = "No se encontro el empleado" });
                 }
                 _context.Remove(empleado);
 
