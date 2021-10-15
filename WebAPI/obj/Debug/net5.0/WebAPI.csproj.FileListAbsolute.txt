@@ -76,12 +76,16 @@ C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\WebAPI.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\EntityFramework.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\FluentValidation.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\Humanizer.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\MediatR.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -139,7 +143,3 @@ C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.pdb
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\EntityFramework.SqlServer.dll
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\EntityFramework.dll
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\WebAPI\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll

@@ -336,7 +336,11 @@ C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontE
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontEnd\bin\Debug\net5.0\FrontEnd.pdb
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontEnd\bin\Debug\net5.0\FrontEnd.Views.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontEnd\bin\Debug\net5.0\FrontEnd.Views.pdb
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontEnd\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontEnd\bin\Debug\net5.0\EntityFramework.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontEnd\bin\Debug\net5.0\Humanizer.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontEnd\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontEnd\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontEnd\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontEnd\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontEnd\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
@@ -496,7 +500,3 @@ C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontE
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontEnd\obj\Debug\net5.0\ref\FrontEnd.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontEnd\obj\Debug\net5.0\FrontEnd.pdb
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontEnd\obj\Debug\net5.0\FrontEnd.genruntimeconfig.cache
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontEnd\bin\Debug\net5.0\EntityFramework.SqlServer.dll
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontEnd\bin\Debug\net5.0\EntityFramework.dll
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontEnd\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\FrontEnd\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
