@@ -1,6 +1,5 @@
 .vs/
-/Aplicacion/
-/Persistencia/obj/Debug/
-/WebAPI/
+Aplicacion/obj
+Persistencia/obj/Debug/
+WebAPI/obj
 /FrontEnd/
-.vs/NetCorePage_Razor/v16/.suo
