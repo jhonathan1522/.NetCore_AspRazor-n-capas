@@ -1,10 +1,6 @@
 .vs/
-/Aplicacion/bin/Debug/net5.0
-.vs/NetCorePage_Razor/v16/
-/Aplicacion/obj/Debug/net5.0/FrontEnd.csproj.AssemblyReference.cache
-/FrontEnd/obj/Debug/net5.0/
-/Persistencia/obj/Debug/
-/WebAPI/obj/Debug/
 /Aplicacion/
+/Persistencia/obj/Debug/
+/WebAPI/
 /FrontEnd/
 .vs/NetCorePage_Razor/v16/.suo
