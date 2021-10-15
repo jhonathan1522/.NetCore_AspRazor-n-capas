@@ -2,3 +2,6 @@
 /Aplicacion/bin/Debug/net5.0
 .vs/NetCorePage_Razor/v16/
 /Aplicacion/obj/Debug/
+/FrontEnd/obj/Debug/net5.0/
+/Persistencia/obj/Debug/
+/WebAPI/obj/Debug/
