@@ -45,4 +45,3 @@ C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Domini
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Dominio\obj\Debug\net5.0\Dominio.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Dominio\obj\Debug\net5.0\ref\Dominio.dll
 C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Dominio\obj\Debug\net5.0\Dominio.pdb
-C:\Users\jnata\Documents\PROYECTOS\Desarrollo de software\.NetCore-NCapas\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
