@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S5abzI5+2U2o6rnTzbA7q3Y6nPrGf6XkuzSu7uBQ3cpFvDkKGYuYCygjfaxh7q+sS+g5t+q7cAWbdE0lIjHETA==",
+  "dgSpecHash": "bP/uhTE1AKUiou7D04Db+dBqGOi3ppQ1PrBlCBPdNsBGhstj8EvBdCGXyNbX5BuD340GtBXWYsEeVyiIacp3jQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\FrontEnd\\FrontEnd.csproj",
+  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\FrontEnd\\FrontEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jnata\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
     "C:\\Users\\jnata\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

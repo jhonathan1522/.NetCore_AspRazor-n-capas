@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UOrLk5KgMOV8ZxP/+1LaoFRNx3mOcDp1MNqAuxbVa2Yx3Qz/sEQV2Alppus/obD7EtGWPxKXBICN1jIkkJaJJQ==",
+  "dgSpecHash": "dKv9Uzwvuw7S9H16jE9YWtnQpFGGWwouVa2oWTyUjxbSKv9glB4hpqScrrLzDIEW/cNvYdWNO6K6uYQWLpoWVg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\Users\\jnata\\Documents\\PROYECTOS\\Desarrollo de software\\.NetCore-NCapas\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jnata\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
     "C:\\Users\\jnata\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.3\\microsoft.aspnet.identity.core.2.2.3.nupkg.sha512",
