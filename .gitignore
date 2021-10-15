@@ -1,4 +1,4 @@
-.vs/
+/.vs/
 /Aplicacion/bin/Debug/net5.0
 .vs/NetCorePage_Razor/v16/
 /Aplicacion/obj/Debug/net5.0/FrontEnd.csproj.AssemblyReference.cache
